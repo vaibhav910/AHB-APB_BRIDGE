@@ -1,0 +1,60 @@
+{E:/summer project/AHB_interface.v} {1 {vlog -work work -vopt -stats=none {E:/summer project/AHB_interface.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_interface
+
+Top level modules:
+	AHB_interface
+
+} {} {}} {E:/summer project/APB_FSM_CONT.v} {1 {vlog -work work -vopt -stats=none {E:\summer project\APB_FSM_CONT.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module APB_FSM_CONT
+
+Top level modules:
+	APB_FSM_CONT
+
+} {} {}} {E:/summer project/APB_INTERFACE.v} {1 {vlog -work work -vopt -stats=none {E:/summer project/APB_INTERFACE.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module APB_INTERFACE
+
+Top level modules:
+	APB_INTERFACE
+
+} {} {}} {E:/summer project/BRIDGE_TOP.v} {1 {vlog -work work -vopt -stats=none {E:/summer project/BRIDGE_TOP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BRIDGE_TOP
+
+Top level modules:
+	BRIDGE_TOP
+
+} {} {}} {E:/summer project/syyys.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/summer project/syyys.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}} {E:/summer project/temopary.v} {1 {vlog -work work -vopt -stats=none {E:/summer project/temopary.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fssss
+
+Top level modules:
+	fssss
+
+} {} {}} {E:/summer project/teomp_tb.v} {1 {vlog -work work -vopt -stats=none {E:/summer project/teomp_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module teomp_tb
+
+Top level modules:
+	teomp_tb
+
+} {} {}} {E:/summer project/AHB_MASTER.v} {1 {vlog -work work -vopt -stats=none {E:/summer project/AHB_MASTER.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AHB_MASTER
+
+Top level modules:
+	AHB_MASTER
+
+} {} {}} {E:/summer project/BRIDGE_TOB_TB.v} {1 {vlog -work work -vopt -stats=none {E:/summer project/BRIDGE_TOB_TB.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BRIDGE_TOP_TB
+
+Top level modules:
+	BRIDGE_TOP_TB
+
+} {} {}}
